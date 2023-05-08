@@ -49,13 +49,4 @@ public class Album {
 		//System.out.println(title+"There is no such song in the album");
 		return false;
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-
 }

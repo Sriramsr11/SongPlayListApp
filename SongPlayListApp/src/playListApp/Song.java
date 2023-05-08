@@ -23,13 +23,4 @@ public class Song {
 		return "song{"+"title= '"+title+'\''+", duration= "+duration+'}';
 	
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-
 }
